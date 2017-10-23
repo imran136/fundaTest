@@ -1,7 +1,7 @@
 ﻿Feature: QuickSearch on home page
 	In order to complete the assignment
 	As a candidate
-	I want to be write some UI/Acceptance test
+	I want to write some UI/Acceptance test
 
 @UI
 Scenario Outline: As an user I can make a quick search for each category
